@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @yusifibrahimov1
-- 👀 I’m interested in SQL programmer
+- 👀 I am working Junior Database Administrator at Kapital Bank OJSC
 - 🌱 I’m currently learned MSSQL, T-SQL, ORACLE SQL, PL/SQL
-- 🌱 I am working as a Junior Database Administrator
