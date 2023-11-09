@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @yusifibrahimov1
-- 👀 I am working Junior Database Administrator at Kapital Bank OJSC
-- 🌱 I’m currently learned MSSQL, T-SQL, ORACLE SQL, PL/SQL
+- 👀 I am a Junior Database Administrator
+- 🌱 I’m currently learning PostgreSQL, SQL Server, MongoDB, Elastic administrating
