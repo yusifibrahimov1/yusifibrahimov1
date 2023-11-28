@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @yusifibrahimov1
+- 👋 Hi, I’m Yusif Ibrahimov
 - 👀 I am a Junior Database Administrator
-- 🌱 I’m currently learning PostgreSQL, SQL Server, MongoDB, Elastic administrating
+- 🌱 I’m currently learning PostgreSQL, Microsoft SQL Server, MongoDB, Elastic, Redis administrating
